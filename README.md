@@ -1,6 +1,10 @@
 # Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation
 This project is the official implementation of ``Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation'' in PyTorch, which is accepted by ACM MM 2022.
 
+<p align="center">
+  <img src="docs/img4.jpg" /> 
+</p>
+
 ### Prerequisites
 
 * Python 3.6
